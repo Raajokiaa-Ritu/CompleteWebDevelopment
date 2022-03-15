@@ -1,0 +1,33 @@
+
+    small{
+        color: brown;
+        background-color: bisque;
+    }
+    h1{
+        color: crimson;
+        background-color: aquamarine;
+        width: 550px;
+        font-size: 50px;
+    }
+    h3,h2,span{
+        color:darkblue
+    }
+    p{
+        color: darkmagenta;
+        font-size: 20px;
+        border: 5px solid lightslategray;
+        border-radius: 15px;
+        margin: 10px;
+        padding: 20px;
+    }
+    ul,div
+    {
+        background-color: blanchedalmond;
+        font-size: 20px;
+        border: 5px solid burlywood;
+        border-radius: 10px;
+        padding: 20px;
+    }
+    .image{
+        width: 300px; height: 200px;;
+    }
